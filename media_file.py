@@ -4,5 +4,3 @@ class MediaFile:
         self.file_type = file_type
         self.size = size
 
-    def play(self):
-        pass
